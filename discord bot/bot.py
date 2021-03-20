@@ -14,4 +14,4 @@ async def on_message(message):
     if message.content.startswith('ohio'):
         await message.channel.send('@everyone' , file=discord.File('wake_up.jpg'))
 
-client.run('ODIyNjk5NTgzMjc2NTgwODY0.YFWEsQ.M-CawhNym1Yf_MaJz09HKEZ6eHc')
+client.run('ODIyNjk5NTgzMjc2NTgwODY0.YFWEsQ.MdAddj-236AIX68AXH0eL18y6Qo')
